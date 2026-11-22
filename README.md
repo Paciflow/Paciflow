@@ -13,11 +13,12 @@ Master's student in Computer Engineering at **Polytechnique Montréal**, previou
 - **Data Science & Machine Learning Intern @ Bombardier** (September 2025 to December 2025): built forecasting models and ETL pipelines for project analytics
 
 ## 🛠️ Tech stack
-**Cloud:** `Azure` `AWS` `Databricks` `Snowflake` `Microsoft Fabric` `SnapLogic`
-**AI & ML:** `RAG` `LLM Agents` `BM25` `Qdrant` `LangChain` `LangGraph` `TensorFlow` `PyTorch` `scikit-learn`
+**Cloud:** `Azure` `AWS` `Databricks` `Snowflake` 
+**ML & AI:** `Python` `PyTorch` `TensorFlow` `LangChain` `LangGraph` 
+**LLM & agents:** `vLLM` `MCP` `Claude Code` `OpenRouter`
+**AI & ML:** `TensorFlow` `PyTorch` `scikit-learn` `XGBoost` `Pandas`  `BM25` `Qdrant` 
 **Data engineering:** `Apache Spark` `PySpark` `ETL/ELT` `pandas` `NumPy` `Power BI` `SQL Server`
 **Frameworks & DevOps:** `React` `Next.js` `Spring Boot` `Flask` `FastAPI` `Docker` `Kubernetes` `CI/CD` `Git`
-**Languages:** `Python` `C` `C++` `Java` `JavaScript` `TypeScript` `SQL` `C#`
 
 ## 📌 Featured projects
 - **[AlphaForge AI / RiskRipple](https://github.com/Paciflow/datathon-polyfinance)**: agentic news and regulatory risk monitoring system for a simulated investment portfolio, built for the PolyFinances 2026 Datathon with Amazon Bedrock, Strands Agents, FastAPI, and Next.js
