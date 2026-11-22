@@ -14,10 +14,15 @@ Master's student in Computer Engineering at **Polytechnique Montréal**, previou
 
 ## 🛠️ Tech stack
 **Cloud:** `Azure` `AWS` `Databricks` `Snowflake` 
+
 **ML & AI:** `Python` `PyTorch` `TensorFlow` `LangChain` `LangGraph` 
+
 **LLM & agents:** `vLLM` `MCP` `Claude Code` `OpenRouter`
+
 **AI & ML:** `TensorFlow` `PyTorch` `scikit-learn` `XGBoost` `Pandas`  `BM25` `Qdrant` 
+
 **Data engineering:** `Apache Spark` `PySpark` `ETL/ELT` `pandas` `NumPy` `Power BI` `SQL Server`
+
 **Frameworks & DevOps:** `React` `Next.js` `Spring Boot` `Flask` `FastAPI` `Docker` `Kubernetes` `CI/CD` `Git`
 
 ## 📌 Featured projects
